@@ -1,5 +1,6 @@
-<h3>#LEC02 - Linear regression의 hypothesis 와 cost
+<h5>#LEC02 - Linear regression의 hypothesis 와 cost
 ==============================================
+
 
 1) Supervised Leanring / Linear regression 예제
   ex) 공부시간에 따른 점수(0~100) 예측
