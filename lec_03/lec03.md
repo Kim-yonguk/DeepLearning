@@ -3,9 +3,11 @@
 
 1) Simplified Hypothesis : 간단한 설명을 위해 b를 생략
 
-  H(x)=Wx
-  Cost(W)=1/m Sigma i=1~m ( H(x.i) - y.i)^2
-  => minimize 부분은 미분을 통해서 얻을수있다(2차 함수의 변곡점을 미분한 값이 0인 지점)
+    H(x)=Wx
+    
+    Cost(W)=1/m Sigma i=1~m ( H(x.i) - y.i)^2
+    
+    => minimize 부분은 미분을 통해서 얻을수있다(2차 함수의 변곡점을 미분한 값이 0인 지점)
   --------------- --------------- --------------- --------------- ---------------
   
 2) Gradient Descent algorithm : 경사가 0이 되는 지점을 찾는 알고리즘 
