@@ -1,4 +1,6 @@
 MNIST 
+----------------------------
+
 1. using softmax
 2. using nn
 3. using nn + xavier initializer
